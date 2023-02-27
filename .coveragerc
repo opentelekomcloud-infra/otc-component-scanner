@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = sec-scanner
+
+[report]
+ignore_errors = True
